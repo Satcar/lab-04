@@ -64,3 +64,6 @@ img {
     text-shadow: 10px -5px 5px #4a75e2;
 }
 
+.justified {
+    text-align: justify;
+}
