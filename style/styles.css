@@ -54,3 +54,13 @@ img {
     width: 150px;
     height: 150px;
 }
+
+.bigWord {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.txtShadow {
+    text-shadow: 10px -5px 5px #4a75e2;
+}
+
